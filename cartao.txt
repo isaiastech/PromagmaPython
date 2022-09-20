@@ -1,0 +1,133 @@
+     RELATÓRIO DE CARTÕES     
+------------------------------
+06/07/2020 está faltando 103
+Os cartões cobrados foram 0
+O valor recebido foi R$0.00
+TEVE DE REEMBOLSO PARA O HOTEL 
+O VALOR DE R$ 0.00
+
+ CARTÕES COBRADOS 06/07/2020  
+------------------------------
+APTO............DATA
+não............  não
+
+     RELATÓRIO DE CARTÕES     
+------------------------------
+02/08/2020 está faltando 21
+Os cartões cobrados foram 2
+O valor recebido foi R$20.00
+TEVE DE REEMBOLSO PARA O HOTEL 
+O VALOR DE R$ 20.00
+
+ CARTÕES COBRADOS 02/08/2020  
+------------------------------
+APTO............DATA
+310............23/07/2020
+315............30/07/2020
+
+     RELATÓRIO DE CARTÕES
+------------------------------
+30/08/2020 está faltando 21
+Os cartões cobrados foram 0
+O valor recebido foi R$0.00
+TEVE DE REEMBOLSO PARA O HOTEL
+O VALOR DE R$ 0.00
+
+ CARTÕES COBRADOS 30/08/2020  
+------------------------------
+APTO............DATA
+00.............   00
+     RELATÓRIO DE CARTÕES     
+------------------------------
+01/10/2020 está faltando 24
+Os cartões cobrados foram 1
+O valor recebido foi R$10.00
+TEVE DE REEMBOLSO PARA O HOTEL 
+O VALOR DE R$ 10.00
+
+ CARTÕES COBRADOS 01/10/2020  
+------------------------------
+APTO............DATA
+304............03/09/2020
+
+     RELATÓRIO DE CARTÕES     
+------------------------------
+02/11/2020 está faltando 25
+Os cartões cobrados foram 0
+O valor recebido foi R$0.00
+TEVE DE REEMBOLSO PARA O HOTEL 
+O VALOR DE R$ 0.00
+
+ CARTÕES COBRADOS 02/11/2020  
+------------------------------
+APTO............DATA
+0..............    0
+
+     RELATÓRIO DE CARTÕES     
+------------------------------
+04/12/2020 está faltando 25
+Os cartões cobrados foram 0
+O valor recebido foi R$0.00
+TEVE DE REEMBOLSO PARA O HOTEL 
+O VALOR DE R$ 0.00
+
+ CARTÕES COBRADOS 04/12/2020  
+------------------------------
+APTO............DATA
+0..............    0
+
+
+     RELATÓRIO DE CARTÕES     
+------------------------------
+01/02/2021 está faltando 39
+Os cartões cobrados foram 0
+O valor recebido foi R$0.00
+TEVE DE REEMBOLSO PARA O HOTEL 
+O VALOR DE R$ 0.00
+
+ CARTÕES COBRADOS 01/02/2021  
+------------------------------
+APTO............DATA
+00.............   00
+
+     RELATÓRIO DE CARTÕES     
+------------------------------
+03/03/2021 está faltando 47
+Os cartões cobrados foram 2
+O valor recebido foi R$20.00
+TEVE DE REEMBOLSO PARA O HOTEL 
+O VALOR DE R$ 20.00
+
+ CARTÕES COBRADOS 03/03/2021  
+------------------------------
+APTO............DATA
+305............23/02/2021
+412............01/03/2021
+
+     RELATÓRIO DE CARTÕES     
+------------------------------
+10/04/2021 está faltando 20
+Os cartões cobrados foram 0
+O valor recebido foi R$0.00
+TEVE DE REEMBOLSO PARA O HOTEL 
+O VALOR DE R$ 0.00
+
+ CARTÕES COBRADOS 10/04/2021  
+------------------------------
+APTO............DATA
+...............     
+
+     RELATÓRIO DE CARTÕES     
+------------------------------
+15/08/2021 está faltando 84
+Os cartões cobrados foram 3
+O valor recebido foi R$30.00
+TEVE DE REEMBOLSO PARA O HOTEL 
+O VALOR DE R$ 30.00
+
+ CARTÕES COBRADOS 15/08/2021  
+------------------------------
+APTO............DATA
+401............01/08/2021
+605............14/08/2021
+
