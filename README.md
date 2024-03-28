@@ -1,1 +1,1 @@
-projeto python recepção
+Alguns arquivos python gerados para estudos.
